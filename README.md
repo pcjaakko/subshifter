@@ -15,4 +15,6 @@ running
 './main subshift file-with-good-time-stamps file-with-bad-time-stamps'
 overwrites the srt file with the bad time stamps with the good time stamps
 # note to future employers
+i did actually code the original quantum chemistry program so i'm not totally useless
 
+also this is more of a movie review than a job application tbh
